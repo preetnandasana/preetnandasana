@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">🌍 I'm based in Gujarat, India<br>🤝 I'm open to collaborating on Real World Projects<br>🖥️ Blogger at [cswale.in](https://www.cswale.in) </h5>
+🌍 I'm based in Gujarat, India<br>🤝 I'm open to collaborating on Real World Projects<br>🖥️ Blogger at [cswale.in](https://www.cswale.in) 
 
 ---
 
